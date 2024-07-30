@@ -42,5 +42,11 @@
         "content": "Acknowledged, working on changing the background color to red.",
         "timestamp": "30072024041443",
         "message_id": "guest30072024041442"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you prefer a specific shade of red for the background color?\", \"option1\": \"Yes, a bright red for higher contrast.\", \"option2\": \"No, a standard red is fine.\"}, {\"question 2\": \"Should this color change apply to all pages/screens of the app or only specific ones?\", \"option1\": \"Yes, change it for all pages/screens.\", \"option2\": \"No, only change it for specific pages/screens.\"}], \"input_token_count\": 305, \"output_token_count\": 106, \"time_taken\": \"0:00:03.824308\"}",
+        "timestamp": "30072024041447",
+        "message_id": "guest30072024041442"
     }
 ]
