@@ -9,7 +9,7 @@ Vue.component("simple_footer_component_1722312418", {
                     <div class="flex">
                         <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-5 text-2xl font-semibold text-gray-900 dark:text-white">
                             <img id="footer-logo" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
-                            FoodTrack - Farm to Fork Solutions
+                            FoodTrack - Food is love.
                         </a>
                     </div>
                 </div>
