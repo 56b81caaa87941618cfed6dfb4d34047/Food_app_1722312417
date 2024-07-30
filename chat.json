@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Change the background color to light gray",
+        "message_id": "guest30072024041114",
+        "timestamp": "30072024041115",
+        "component_file_name": "simple_cta_component_1722312418",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
