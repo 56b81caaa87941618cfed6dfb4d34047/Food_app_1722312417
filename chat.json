@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, working on changing the background color to light gray.",
+        "message_id": "guest30072024041114",
+        "timestamp": "30072024041116",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change the background color to light gray",
         "message_id": "guest30072024041114",
