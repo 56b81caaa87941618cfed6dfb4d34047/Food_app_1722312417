@@ -36,5 +36,11 @@
         "content": "Change background color to red",
         "timestamp": "30072024041443",
         "message_id": "guest30072024041442"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Acknowledged, working on changing the background color to red.",
+        "timestamp": "30072024041443",
+        "message_id": "guest30072024041442"
     }
 ]
