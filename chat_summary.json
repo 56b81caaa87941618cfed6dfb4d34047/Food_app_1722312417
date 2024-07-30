@@ -12,5 +12,11 @@
         "content": "Change the background color to light gray",
         "timestamp": "30072024041115",
         "message_id": "guest30072024041114"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, working on changing the background color to light gray.",
+        "timestamp": "30072024041116",
+        "message_id": "guest30072024041114"
     }
 ]
