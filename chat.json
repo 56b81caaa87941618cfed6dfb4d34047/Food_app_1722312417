@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Menu' button for easy navigation through the app's food categories\", \"checked\": true}, {\"feature\": \"Incorporate a 'Favorites' button to allow users to save their preferred dishes for quick access\", \"checked\": false}, {\"feature\": \"Implement a 'Feedback' button for users to share their dining experiences or app functionality suggestions\", \"checked\": false}, {\"feature\": \"Add a 'Share' button to enable users to share their favorite dishes or app content with friends and family on social media\", \"checked\": true}, {\"feature\": \"Include a 'Profile' button where users can customize their dietary preferences and view order history\", \"checked\": false}, {\"feature\": \"Add a 'Special Offers' button to highlight ongoing deals and promotions\", \"checked\": true}], \"input_token_count\": 213, \"output_token_count\": 166, \"time_taken\": \"0:00:06.970331\"}",
+        "message_id": "guest30072024041532",
+        "timestamp": "30072024041540",
+        "component_file_name": "simple_cta_component_1722312418",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where should the 'Start Today' button be positioned on the screen?\", \"option1\": \"Above the fold for immediate visibility\", \"option2\": \"At the bottom of the screen, after users have scrolled through information\"}, {\"question 2\": \"What action should occur when a user clicks the 'Start Today' button?\", \"option1\": \"Take the user to a signup form\", \"option2\": \"Open a popup with more information on starting today\"}], \"input_token_count\": 259, \"output_token_count\": 108, \"time_taken\": \"0:00:04.173728\"}",
         "message_id": "guest30072024041532",
