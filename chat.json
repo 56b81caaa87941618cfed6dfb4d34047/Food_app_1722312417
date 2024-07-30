@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific shade of light gray in mind or should we select one that matches your app's current color scheme?\", \"option1\": \"I have a specific shade in mind.\", \"option2\": \"Please select a shade that matches the current color scheme.\"}, {\"question 2\": \"Is this background color change intended for the entire app or specific sections/pages?\", \"option1\": \"Entire app\", \"option2\": \"Specific sections/pages\"}], \"input_token_count\": 258, \"output_token_count\": 107, \"time_taken\": \"0:00:04.267032\"}",
+        "message_id": "guest30072024041114",
+        "timestamp": "30072024041120",
+        "component_file_name": "simple_cta_component_1722312418",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, working on changing the background color to light gray.",
         "message_id": "guest30072024041114",
