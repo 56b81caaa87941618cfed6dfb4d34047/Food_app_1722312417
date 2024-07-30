@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Great, I will add a button with the text \"Start Today\".",
+        "message_id": "guest30072024041532",
+        "timestamp": "30072024041533",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Add another button which have text Start Today",
         "message_id": "guest30072024041532",
